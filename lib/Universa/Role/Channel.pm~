@@ -1,0 +1,5 @@
+package Universa::Role::Channel;
+
+use Moose::Role;
+
+1;
