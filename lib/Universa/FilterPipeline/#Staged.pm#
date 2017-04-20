@@ -1,0 +1,5 @@
+package Universa::FilterPipeline::Staged;
+
+
+universa->entity($uuid)->filter('Port')->add($filter);
+

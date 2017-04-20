@@ -1,0 +1,3 @@
+package Universa::FilterProxy;
+
+use Moose;
